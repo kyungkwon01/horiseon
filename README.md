@@ -23,4 +23,4 @@ The website has been optimized for users with disabilities with the following fe
 
 Deployment
 
-The refactored website is deployed at the following URL: [Horiseon Refactored Website](https://kyungkwon01.github.io/horiseon/)
+Website is deployed at the following URL: [Horiseon Refactored Website](https://kyungkwon01.github.io/horiseon/)
